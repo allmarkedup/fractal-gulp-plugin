@@ -1,0 +1,18 @@
+{
+  "name": "@allmarkedup/fractal-gulp-plugin",
+  "version": "0.1.0",
+  "description": "Run Gulp tasks within the Fractal interactive CLI.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allmarkedup/fractal-gulp-plugin"
+  },
+  "author": "Mark Perkins <mark@allmarkedup.com> (http://allmarkedup.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frctl/allmarkedup/fractal-gulp-plugin/issues"
+  },
+  "homepage": "https://github.com/allmarkedup/fractal-gulp-plugin",
+  "dependencies": {
+  }
+}
