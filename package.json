@@ -1,6 +1,6 @@
 {
   "name": "@allmarkedup/fractal-gulp-plugin",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Run Gulp tasks within the Fractal interactive CLI.",
   "main": "index.js",
   "repository": {
