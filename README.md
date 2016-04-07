@@ -15,7 +15,7 @@ In your `gulpfile.js`, export the gulp instance that you have added your tasks t
 ```js
 const gulp = require('gulp');
 
-// ...
+// configure gulp tasks here as usual
 
 module.exports = gulp; // Export the gulp instance
 ```
