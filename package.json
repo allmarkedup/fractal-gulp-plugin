@@ -12,7 +12,5 @@
   "bugs": {
     "url": "https://github.com/frctl/allmarkedup/fractal-gulp-plugin/issues"
   },
-  "homepage": "https://github.com/allmarkedup/fractal-gulp-plugin",
-  "dependencies": {
-  }
+  "homepage": "https://github.com/allmarkedup/fractal-gulp-plugin"
 }
